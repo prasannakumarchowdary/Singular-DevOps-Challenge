@@ -1,0 +1,29 @@
+[
+  {
+    "Year": 2022,
+    "Month": 7,
+    "InformationCount": 34,
+    "WarningCount": 6,
+    "ErrorCount": 10,
+    "WarningPercentChange": null,
+    "ErrorPercentChange": null
+  },
+  {
+    "Year": 2022,
+    "Month": 8,
+    "InformationCount": 32,
+    "WarningCount": 9,
+    "ErrorCount": 4,
+    "WarningPercentChange": 50.0,
+    "ErrorPercentChange": -60.0
+  },
+  {
+    "Year": 2022,
+    "Month": 9,
+    "InformationCount": 25,
+    "WarningCount": 8,
+    "ErrorCount": 5,
+    "WarningPercentChange": -11.11,
+    "ErrorPercentChange": 25.0
+  }
+]
